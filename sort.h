@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
- * struct listint - Doubly linked list node
+ * struct listint_s - Doubly linked list node
  *
  * @n: Integer in node
  * @prev: Pointer to the previous element 
